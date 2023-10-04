@@ -1,0 +1,9 @@
+Respostoty Github : https://github.com/nasamarca/PYTN_Assgn_1_5_NadiatusSalam.git
+python 3.10.4
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+visual studio code
